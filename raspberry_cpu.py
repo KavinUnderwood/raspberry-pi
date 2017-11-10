@@ -1,8 +1,8 @@
-# Copyright (C) 2017 wanghaojie                                         *
-# All rights reserved                                                        *
-#                                                                            *
-# @author  :   rooster                                                         *
-# @date    :   2017-10-13                                                    *                                                               *
+# Copyright (C) 2017 wanghaojie                                        
+# All rights reserved                                                    
+#                                                                           
+# @author  :   rooster                                                        
+# @date    :   2017-10-13                                                                                                                  *
 import os
 # 主要是利用原本的资源及驱动获取数据
 # CPU温度、使用率
